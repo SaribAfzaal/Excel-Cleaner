@@ -1,0 +1,13 @@
+﻿# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Generated Excel files (don't commit test data output)
+messy_data.xlsx
+cleaned_data.xlsx
+
+# OS/editor junk
+.DS_Store
+.vscode/
